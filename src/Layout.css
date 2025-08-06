@@ -1,0 +1,45 @@
+/* Layout.css */
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+nav {
+  background-color: #007bff;
+  padding: 15px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin: 0 15px;
+  font-weight: 500;
+  transition: color 0.3s ease;
+}
+
+nav a:hover {
+  color: #ffd700;
+}
+
+hr {
+  margin: 20px auto;
+  width: 90%;
+  border: 0;
+  border-top: 1px solid #ccc;
+}
+
+footer {
+  position: fixed bottom;
+  text-align: center;
+  padding: 20px;
+  background-color: #222;
+  color: #eee;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  font-size: 14px;
+}

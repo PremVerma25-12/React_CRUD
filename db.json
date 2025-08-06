@@ -1,0 +1,18 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "roll": "101",
+      "name": "Prem",
+      "city": "MP",
+      "salary": "3456"
+    },
+    {
+      "id": "1500",
+      "roll": "0123",
+      "name": "Prem Verma",
+      "city": "Bhopal",
+      "salary": "23000"
+    }
+  ]
+}
